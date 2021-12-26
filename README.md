@@ -1,4 +1,5 @@
 # nav-1
+# 预览：https://forever24kobe.github.io/nav-1/dist/index.html
 <h1>开发</h1>
 yarn global add parcel@1.9.7
 
